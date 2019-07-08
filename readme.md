@@ -1,1 +1,1 @@
-this is my project about git bash 
+this is my project 
